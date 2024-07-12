@@ -1,6 +1,6 @@
 asgiref
-Django
-djangorestframework
+Django==5.0.7
+djangorestframework==3.15.2
 djoser
 pytz
 sqlparse
